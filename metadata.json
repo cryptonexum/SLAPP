@@ -1,0 +1,17 @@
+{
+  "name": "SLAP",
+  "symbol": "SLAP",
+  "description": "This is SLAP SPL token",
+  "image": "https://i.imgur.com/dFz3AJA.png",
+  "tags": [
+    "SLAP"
+  ],
+  "extensions": {
+    "twitter": "https://x.com/slapmemecoin",
+    "telegram": "https://t.me/slapmemecoin"
+  },
+  "creator": {
+    "name": "SLAP",
+    "site": "https://slap.meme"
+  }
+}
